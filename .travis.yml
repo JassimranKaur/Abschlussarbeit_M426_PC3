@@ -5,6 +5,6 @@ deploy:
   provider: releases
   api_key:
     secure: RVZ2p9bMDSEdYDUkdRjc4Oi1z3fbgGYDSztWd5RZnNtyNvriEkZ5p2BEOA2e1uEzfVpQAY9NYq07n+rIL0IFASLReZr9RXaa+6187A23FOb8H9QeEu+nnf5e9EOOJEh9dc3RbElg/UU3I6FZKXt8M+C7cmwKDIYxmCMEpfdfG4S45uWcwNeb7zJlV+8LYJZHj11nOG9Bfu+yCkiRZJovp98TiusUcetLZUXKvEpCKyk/f3qhMEb+Z0n+Vnwt+cQJGnJi4Mmheq1wk1nu5+Nd0H2RitscL65hj0bHsBIODwmQqnJW1Eg+SanVQCOr4I9zHQNHxT3ZVlXVS9PEZ/9MSK/P46di1rnkTTVv07USyaCjiCUrjb+sd+o/Op+JwFnrSm+/2TCrGbcyMmbhoX397kHRdb4nfOSaSXD5KpBcqUev2gWuKaHKCZ1uQ8BDXeWekRjqnCncCQcVrI4wDLL1a7RVjFUzNeZrxGyWL60/aSBW2odVzCszmpyBZ6m4oQ8a/u19MwYW/U9hryDDGWum0MS8pQPGLu/FtE4GmtDZB9Ddk5JIoq4IBQPw2CgBDECyBbY9eMucqk4dfXkElHfI4j6z1R+yvFlH7xyng3sTaIviihM3ut5FUORwzS2kKqJT6jACtXH6h4zjzBN3RjJjKQMGqQmsQ5zR/WPKRveofcw=
-  file: /home/travis/.m2/repository/ch/bbw/fahrplan/1.0-SNAPSHOT/Fahrplan-1.0-SNAPSHOT.jar
+  file: /home/travis/.m2/repository/ch/bbw/Fahrplan/1.0-SNAPSHOT/Fahrplan-1.0-SNAPSHOT.jar
   on:
     repo: JassimranKaur/Abschlussarbeit_M426_PC3
