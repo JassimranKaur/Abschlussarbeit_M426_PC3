@@ -1,0 +1,1337 @@
+{
+    "connections": [{
+            "from": {
+                "station": {
+                    "id": "8506000",
+                    "name": "Winterthur",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.500332,
+                        "y": 8.723795
+                    },
+                    "distance": null
+                },
+                "arrival": null,
+                "arrivalTimestamp": null,
+                "departure": "2018-01-31T09:41:00+0100",
+                "departureTimestamp": 1517388060,
+                "delay": 1,
+                "platform": "8",
+                "prognosis": {
+                    "platform": null,
+                    "arrival": null,
+                    "departure": "2018-01-31T09:42:00+0100",
+                    "capacity1st": null,
+                    "capacity2nd": null
+                },
+                "realtimeAvailability": null,
+                "location": {
+                    "id": "8506000",
+                    "name": "Winterthur",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.500332,
+                        "y": 8.723795
+                    },
+                    "distance": null
+                }
+            },
+            "to": {
+                "station": {
+                    "id": "8503000",
+                    "name": "Z\u00fcrich HB",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.377847,
+                        "y": 8.540502
+                    },
+                    "distance": null
+                },
+                "arrival": "2018-01-31T10:05:00+0100",
+                "arrivalTimestamp": 1517389500,
+                "departure": null,
+                "departureTimestamp": null,
+                "delay": null,
+                "platform": "8",
+                "prognosis": {
+                    "platform": null,
+                    "arrival": null,
+                    "departure": null,
+                    "capacity1st": null,
+                    "capacity2nd": null
+                },
+                "realtimeAvailability": null,
+                "location": {
+                    "id": "8503000",
+                    "name": "Z\u00fcrich HB",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.377847,
+                        "y": 8.540502
+                    },
+                    "distance": null
+                }
+            },
+            "duration": "00d00:23:00",
+            "transfers": 0,
+            "service": null,
+            "products": ["S8"],
+            "capacity1st": null,
+            "capacity2nd": null,
+            "sections": [{
+                    "journey": {
+                        "name": "S8 18837",
+                        "category": "S",
+                        "subcategory": null,
+                        "categoryCode": null,
+                        "number": "8",
+                        "operator": "SBB",
+                        "to": "Pf\u00e4ffikon SZ",
+                        "passList": [{
+                                "station": {
+                                    "id": "8506000",
+                                    "name": "Winterthur",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.500332,
+                                        "y": 8.723795
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": null,
+                                "arrivalTimestamp": null,
+                                "departure": "2018-01-31T09:41:00+0100",
+                                "departureTimestamp": 1517388060,
+                                "delay": 1,
+                                "platform": "8",
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": "2018-01-31T09:42:00+0100",
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8506000",
+                                    "name": "Winterthur",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.500332,
+                                        "y": 8.723795
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503305",
+                                    "name": "Effretikon",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.425808,
+                                        "y": 8.68666
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T09:47:00+0100",
+                                "arrivalTimestamp": 1517388420,
+                                "departure": "2018-01-31T09:48:00+0100",
+                                "departureTimestamp": 1517388480,
+                                "delay": 1,
+                                "platform": null,
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": "2018-01-31T09:49:00+0100",
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503305",
+                                    "name": "Effretikon",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.425808,
+                                        "y": 8.68666
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503306",
+                                    "name": "Dietlikon",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.420192,
+                                        "y": 8.619254
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T09:52:00+0100",
+                                "arrivalTimestamp": 1517388720,
+                                "departure": "2018-01-31T09:52:00+0100",
+                                "departureTimestamp": 1517388720,
+                                "delay": 1,
+                                "platform": null,
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": "2018-01-31T09:53:00+0100",
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503306",
+                                    "name": "Dietlikon",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.420192,
+                                        "y": 8.619254
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503129",
+                                    "name": "Wallisellen",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.412714,
+                                        "y": 8.591909
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T09:55:00+0100",
+                                "arrivalTimestamp": 1517388900,
+                                "departure": "2018-01-31T09:56:00+0100",
+                                "departureTimestamp": 1517388960,
+                                "delay": 0,
+                                "platform": null,
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": "2018-01-31T09:56:00+0100",
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503129",
+                                    "name": "Wallisellen",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.412714,
+                                        "y": 8.591909
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503006",
+                                    "name": "Z\u00fcrich Oerlikon",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.411526,
+                                        "y": 8.544114
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T09:59:00+0100",
+                                "arrivalTimestamp": 1517389140,
+                                "departure": "2018-01-31T10:00:00+0100",
+                                "departureTimestamp": 1517389200,
+                                "delay": 0,
+                                "platform": null,
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": "2018-01-31T10:00:00+0100",
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503006",
+                                    "name": "Z\u00fcrich Oerlikon",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.411526,
+                                        "y": 8.544114
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503000",
+                                    "name": "Z\u00fcrich HB",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.377847,
+                                        "y": 8.540502
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T10:05:00+0100",
+                                "arrivalTimestamp": 1517389500,
+                                "departure": null,
+                                "departureTimestamp": null,
+                                "delay": 0,
+                                "platform": "32",
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": "2018-01-31T10:05:00+0100",
+                                    "departure": null,
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503000",
+                                    "name": "Z\u00fcrich HB",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.377847,
+                                        "y": 8.540502
+                                    },
+                                    "distance": null
+                                }
+                            }],
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "walk": null,
+                    "departure": {
+                        "station": {
+                            "id": "8506000",
+                            "name": "Winterthur",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.500332,
+                                "y": 8.723795
+                            },
+                            "distance": null
+                        },
+                        "arrival": null,
+                        "arrivalTimestamp": null,
+                        "departure": "2018-01-31T09:41:00+0100",
+                        "departureTimestamp": 1517388060,
+                        "delay": 1,
+                        "platform": "8",
+                        "prognosis": {
+                            "platform": null,
+                            "arrival": null,
+                            "departure": "2018-01-31T09:42:00+0100",
+                            "capacity1st": null,
+                            "capacity2nd": null
+                        },
+                        "realtimeAvailability": null,
+                        "location": {
+                            "id": "8506000",
+                            "name": "Winterthur",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.500332,
+                                "y": 8.723795
+                            },
+                            "distance": null
+                        }
+                    },
+                    "arrival": {
+                        "station": {
+                            "id": "8503000",
+                            "name": "Z\u00fcrich HB",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.377847,
+                                "y": 8.540502
+                            },
+                            "distance": null
+                        },
+                        "arrival": "2018-01-31T10:05:00+0100",
+                        "arrivalTimestamp": 1517389500,
+                        "departure": null,
+                        "departureTimestamp": null,
+                        "delay": 0,
+                        "platform": "32",
+                        "prognosis": {
+                            "platform": null,
+                            "arrival": "2018-01-31T10:05:00+0100",
+                            "departure": null,
+                            "capacity1st": null,
+                            "capacity2nd": null
+                        },
+                        "realtimeAvailability": null,
+                        "location": {
+                            "id": "8503000",
+                            "name": "Z\u00fcrich HB",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.377847,
+                                "y": 8.540502
+                            },
+                            "distance": null
+                        }
+                    }
+                }]
+        }, {
+            "from": {
+                "station": {
+                    "id": "8506000",
+                    "name": "Winterthur",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.500332,
+                        "y": 8.723795
+                    },
+                    "distance": null
+                },
+                "arrival": null,
+                "arrivalTimestamp": null,
+                "departure": "2018-01-31T09:52:00+0100",
+                "departureTimestamp": 1517388720,
+                "delay": 0,
+                "platform": "3",
+                "prognosis": {
+                    "platform": null,
+                    "arrival": null,
+                    "departure": "2018-01-31T09:52:00+0100",
+                    "capacity1st": null,
+                    "capacity2nd": null
+                },
+                "realtimeAvailability": null,
+                "location": {
+                    "id": "8506000",
+                    "name": "Winterthur",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.500332,
+                        "y": 8.723795
+                    },
+                    "distance": null
+                }
+            },
+            "to": {
+                "station": {
+                    "id": "8503000",
+                    "name": "Z\u00fcrich HB",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.377847,
+                        "y": 8.540502
+                    },
+                    "distance": null
+                },
+                "arrival": "2018-01-31T10:11:00+0100",
+                "arrivalTimestamp": 1517389860,
+                "departure": null,
+                "departureTimestamp": null,
+                "delay": null,
+                "platform": "3",
+                "prognosis": {
+                    "platform": null,
+                    "arrival": null,
+                    "departure": null,
+                    "capacity1st": null,
+                    "capacity2nd": null
+                },
+                "realtimeAvailability": null,
+                "location": {
+                    "id": "8503000",
+                    "name": "Z\u00fcrich HB",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.377847,
+                        "y": 8.540502
+                    },
+                    "distance": null
+                }
+            },
+            "duration": "00d00:19:00",
+            "transfers": 0,
+            "service": null,
+            "products": ["S12"],
+            "capacity1st": null,
+            "capacity2nd": null,
+            "sections": [{
+                    "journey": {
+                        "name": "S12 19236",
+                        "category": "S",
+                        "subcategory": null,
+                        "categoryCode": null,
+                        "number": "12",
+                        "operator": "SBB",
+                        "to": "Brugg AG",
+                        "passList": [{
+                                "station": {
+                                    "id": "8506000",
+                                    "name": "Winterthur",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.500332,
+                                        "y": 8.723795
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": null,
+                                "arrivalTimestamp": null,
+                                "departure": "2018-01-31T09:52:00+0100",
+                                "departureTimestamp": 1517388720,
+                                "delay": 0,
+                                "platform": "3",
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": "2018-01-31T09:52:00+0100",
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8506000",
+                                    "name": "Winterthur",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.500332,
+                                        "y": 8.723795
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503147",
+                                    "name": "Stettbach",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.397209,
+                                        "y": 8.596131
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T10:03:00+0100",
+                                "arrivalTimestamp": 1517389380,
+                                "departure": "2018-01-31T10:03:00+0100",
+                                "departureTimestamp": 1517389380,
+                                "delay": 0,
+                                "platform": null,
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": "2018-01-31T10:03:00+0100",
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503147",
+                                    "name": "Stettbach",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.397209,
+                                        "y": 8.596131
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503003",
+                                    "name": "Z\u00fcrich Stadelhofen",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.366608,
+                                        "y": 8.548465
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T10:07:00+0100",
+                                "arrivalTimestamp": 1517389620,
+                                "departure": "2018-01-31T10:08:00+0100",
+                                "departureTimestamp": 1517389680,
+                                "delay": 0,
+                                "platform": null,
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": "2018-01-31T10:08:00+0100",
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503003",
+                                    "name": "Z\u00fcrich Stadelhofen",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.366608,
+                                        "y": 8.548465
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503000",
+                                    "name": "Z\u00fcrich HB",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.377847,
+                                        "y": 8.540502
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T10:11:00+0100",
+                                "arrivalTimestamp": 1517389860,
+                                "departure": null,
+                                "departureTimestamp": null,
+                                "delay": 0,
+                                "platform": "41\/42",
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": "2018-01-31T10:11:00+0100",
+                                    "departure": null,
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503000",
+                                    "name": "Z\u00fcrich HB",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.377847,
+                                        "y": 8.540502
+                                    },
+                                    "distance": null
+                                }
+                            }],
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "walk": null,
+                    "departure": {
+                        "station": {
+                            "id": "8506000",
+                            "name": "Winterthur",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.500332,
+                                "y": 8.723795
+                            },
+                            "distance": null
+                        },
+                        "arrival": null,
+                        "arrivalTimestamp": null,
+                        "departure": "2018-01-31T09:52:00+0100",
+                        "departureTimestamp": 1517388720,
+                        "delay": 0,
+                        "platform": "3",
+                        "prognosis": {
+                            "platform": null,
+                            "arrival": null,
+                            "departure": "2018-01-31T09:52:00+0100",
+                            "capacity1st": null,
+                            "capacity2nd": null
+                        },
+                        "realtimeAvailability": null,
+                        "location": {
+                            "id": "8506000",
+                            "name": "Winterthur",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.500332,
+                                "y": 8.723795
+                            },
+                            "distance": null
+                        }
+                    },
+                    "arrival": {
+                        "station": {
+                            "id": "8503000",
+                            "name": "Z\u00fcrich HB",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.377847,
+                                "y": 8.540502
+                            },
+                            "distance": null
+                        },
+                        "arrival": "2018-01-31T10:11:00+0100",
+                        "arrivalTimestamp": 1517389860,
+                        "departure": null,
+                        "departureTimestamp": null,
+                        "delay": 0,
+                        "platform": "41\/42",
+                        "prognosis": {
+                            "platform": null,
+                            "arrival": "2018-01-31T10:11:00+0100",
+                            "departure": null,
+                            "capacity1st": null,
+                            "capacity2nd": null
+                        },
+                        "realtimeAvailability": null,
+                        "location": {
+                            "id": "8503000",
+                            "name": "Z\u00fcrich HB",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.377847,
+                                "y": 8.540502
+                            },
+                            "distance": null
+                        }
+                    }
+                }]
+        }, {
+            "from": {
+                "station": {
+                    "id": "8506000",
+                    "name": "Winterthur",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.500332,
+                        "y": 8.723795
+                    },
+                    "distance": null
+                },
+                "arrival": null,
+                "arrivalTimestamp": null,
+                "departure": "2018-01-31T09:55:00+0100",
+                "departureTimestamp": 1517388900,
+                "delay": null,
+                "platform": "4",
+                "prognosis": {
+                    "platform": null,
+                    "arrival": null,
+                    "departure": null,
+                    "capacity1st": null,
+                    "capacity2nd": null
+                },
+                "realtimeAvailability": null,
+                "location": {
+                    "id": "8506000",
+                    "name": "Winterthur",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.500332,
+                        "y": 8.723795
+                    },
+                    "distance": null
+                }
+            },
+            "to": {
+                "station": {
+                    "id": "8503000",
+                    "name": "Z\u00fcrich HB",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.377847,
+                        "y": 8.540502
+                    },
+                    "distance": null
+                },
+                "arrival": "2018-01-31T10:21:00+0100",
+                "arrivalTimestamp": 1517390460,
+                "departure": null,
+                "departureTimestamp": null,
+                "delay": null,
+                "platform": "4",
+                "prognosis": {
+                    "platform": null,
+                    "arrival": null,
+                    "departure": null,
+                    "capacity1st": null,
+                    "capacity2nd": null
+                },
+                "realtimeAvailability": null,
+                "location": {
+                    "id": "8503000",
+                    "name": "Z\u00fcrich HB",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.377847,
+                        "y": 8.540502
+                    },
+                    "distance": null
+                }
+            },
+            "duration": "00d00:26:00",
+            "transfers": 0,
+            "service": null,
+            "products": ["IR 75"],
+            "capacity1st": null,
+            "capacity2nd": null,
+            "sections": [{
+                    "journey": {
+                        "name": "IR 2114",
+                        "category": "IR",
+                        "subcategory": null,
+                        "categoryCode": null,
+                        "number": "75",
+                        "operator": "SBB",
+                        "to": "Z\u00fcrich HB",
+                        "passList": [{
+                                "station": {
+                                    "id": "8506000",
+                                    "name": "Winterthur",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.500332,
+                                        "y": 8.723795
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": null,
+                                "arrivalTimestamp": null,
+                                "departure": "2018-01-31T09:55:00+0100",
+                                "departureTimestamp": 1517388900,
+                                "delay": null,
+                                "platform": "4",
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": null,
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8506000",
+                                    "name": "Winterthur",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.500332,
+                                        "y": 8.723795
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503016",
+                                    "name": "Z\u00fcrich Flughafen",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.450379,
+                                        "y": 8.562384
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T10:08:00+0100",
+                                "arrivalTimestamp": 1517389680,
+                                "departure": "2018-01-31T10:10:00+0100",
+                                "departureTimestamp": 1517389800,
+                                "delay": null,
+                                "platform": null,
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": null,
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503016",
+                                    "name": "Z\u00fcrich Flughafen",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.450379,
+                                        "y": 8.562384
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503000",
+                                    "name": "Z\u00fcrich HB",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.377847,
+                                        "y": 8.540502
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T10:21:00+0100",
+                                "arrivalTimestamp": 1517390460,
+                                "departure": null,
+                                "departureTimestamp": null,
+                                "delay": null,
+                                "platform": "15",
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": null,
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503000",
+                                    "name": "Z\u00fcrich HB",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.377847,
+                                        "y": 8.540502
+                                    },
+                                    "distance": null
+                                }
+                            }],
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "walk": null,
+                    "departure": {
+                        "station": {
+                            "id": "8506000",
+                            "name": "Winterthur",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.500332,
+                                "y": 8.723795
+                            },
+                            "distance": null
+                        },
+                        "arrival": null,
+                        "arrivalTimestamp": null,
+                        "departure": "2018-01-31T09:55:00+0100",
+                        "departureTimestamp": 1517388900,
+                        "delay": null,
+                        "platform": "4",
+                        "prognosis": {
+                            "platform": null,
+                            "arrival": null,
+                            "departure": null,
+                            "capacity1st": null,
+                            "capacity2nd": null
+                        },
+                        "realtimeAvailability": null,
+                        "location": {
+                            "id": "8506000",
+                            "name": "Winterthur",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.500332,
+                                "y": 8.723795
+                            },
+                            "distance": null
+                        }
+                    },
+                    "arrival": {
+                        "station": {
+                            "id": "8503000",
+                            "name": "Z\u00fcrich HB",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.377847,
+                                "y": 8.540502
+                            },
+                            "distance": null
+                        },
+                        "arrival": "2018-01-31T10:21:00+0100",
+                        "arrivalTimestamp": 1517390460,
+                        "departure": null,
+                        "departureTimestamp": null,
+                        "delay": null,
+                        "platform": "15",
+                        "prognosis": {
+                            "platform": null,
+                            "arrival": null,
+                            "departure": null,
+                            "capacity1st": null,
+                            "capacity2nd": null
+                        },
+                        "realtimeAvailability": null,
+                        "location": {
+                            "id": "8503000",
+                            "name": "Z\u00fcrich HB",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.377847,
+                                "y": 8.540502
+                            },
+                            "distance": null
+                        }
+                    }
+                }]
+        }, {
+            "from": {
+                "station": {
+                    "id": "8506000",
+                    "name": "Winterthur",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.500332,
+                        "y": 8.723795
+                    },
+                    "distance": null
+                },
+                "arrival": null,
+                "arrivalTimestamp": null,
+                "departure": "2018-01-31T09:58:00+0100",
+                "departureTimestamp": 1517389080,
+                "delay": 0,
+                "platform": "3",
+                "prognosis": {
+                    "platform": null,
+                    "arrival": null,
+                    "departure": "2018-01-31T09:58:00+0100",
+                    "capacity1st": null,
+                    "capacity2nd": null
+                },
+                "realtimeAvailability": null,
+                "location": {
+                    "id": "8506000",
+                    "name": "Winterthur",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.500332,
+                        "y": 8.723795
+                    },
+                    "distance": null
+                }
+            },
+            "to": {
+                "station": {
+                    "id": "8503000",
+                    "name": "Z\u00fcrich HB",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.377847,
+                        "y": 8.540502
+                    },
+                    "distance": null
+                },
+                "arrival": "2018-01-31T10:23:00+0100",
+                "arrivalTimestamp": 1517390580,
+                "departure": null,
+                "departureTimestamp": null,
+                "delay": null,
+                "platform": "3",
+                "prognosis": {
+                    "platform": null,
+                    "arrival": null,
+                    "departure": null,
+                    "capacity1st": null,
+                    "capacity2nd": null
+                },
+                "realtimeAvailability": null,
+                "location": {
+                    "id": "8503000",
+                    "name": "Z\u00fcrich HB",
+                    "score": null,
+                    "coordinate": {
+                        "type": "WGS84",
+                        "x": 47.377847,
+                        "y": 8.540502
+                    },
+                    "distance": null
+                }
+            },
+            "duration": "00d00:25:00",
+            "transfers": 0,
+            "service": null,
+            "products": ["IC 5"],
+            "capacity1st": null,
+            "capacity2nd": null,
+            "sections": [{
+                    "journey": {
+                        "name": "IC 1516",
+                        "category": "IC",
+                        "subcategory": null,
+                        "categoryCode": null,
+                        "number": "5",
+                        "operator": "SBB",
+                        "to": "Lausanne",
+                        "passList": [{
+                                "station": {
+                                    "id": "8506000",
+                                    "name": "Winterthur",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.500332,
+                                        "y": 8.723795
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": null,
+                                "arrivalTimestamp": null,
+                                "departure": "2018-01-31T09:58:00+0100",
+                                "departureTimestamp": 1517389080,
+                                "delay": 0,
+                                "platform": "3",
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": "2018-01-31T09:58:00+0100",
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8506000",
+                                    "name": "Winterthur",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.500332,
+                                        "y": 8.723795
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503016",
+                                    "name": "Z\u00fcrich Flughafen",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.450379,
+                                        "y": 8.562384
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T10:11:00+0100",
+                                "arrivalTimestamp": 1517389860,
+                                "departure": "2018-01-31T10:13:00+0100",
+                                "departureTimestamp": 1517389980,
+                                "delay": 0,
+                                "platform": null,
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": null,
+                                    "departure": "2018-01-31T10:13:00+0100",
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503016",
+                                    "name": "Z\u00fcrich Flughafen",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.450379,
+                                        "y": 8.562384
+                                    },
+                                    "distance": null
+                                }
+                            }, {
+                                "station": {
+                                    "id": "8503000",
+                                    "name": "Z\u00fcrich HB",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.377847,
+                                        "y": 8.540502
+                                    },
+                                    "distance": null
+                                },
+                                "arrival": "2018-01-31T10:23:00+0100",
+                                "arrivalTimestamp": 1517390580,
+                                "departure": null,
+                                "departureTimestamp": null,
+                                "delay": 0,
+                                "platform": "31",
+                                "prognosis": {
+                                    "platform": null,
+                                    "arrival": "2018-01-31T10:23:00+0100",
+                                    "departure": null,
+                                    "capacity1st": null,
+                                    "capacity2nd": null
+                                },
+                                "realtimeAvailability": null,
+                                "location": {
+                                    "id": "8503000",
+                                    "name": "Z\u00fcrich HB",
+                                    "score": null,
+                                    "coordinate": {
+                                        "type": "WGS84",
+                                        "x": 47.377847,
+                                        "y": 8.540502
+                                    },
+                                    "distance": null
+                                }
+                            }],
+                        "capacity1st": null,
+                        "capacity2nd": null
+                    },
+                    "walk": null,
+                    "departure": {
+                        "station": {
+                            "id": "8506000",
+                            "name": "Winterthur",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.500332,
+                                "y": 8.723795
+                            },
+                            "distance": null
+                        },
+                        "arrival": null,
+                        "arrivalTimestamp": null,
+                        "departure": "2018-01-31T09:58:00+0100",
+                        "departureTimestamp": 1517389080,
+                        "delay": 0,
+                        "platform": "3",
+                        "prognosis": {
+                            "platform": null,
+                            "arrival": null,
+                            "departure": "2018-01-31T09:58:00+0100",
+                            "capacity1st": null,
+                            "capacity2nd": null
+                        },
+                        "realtimeAvailability": null,
+                        "location": {
+                            "id": "8506000",
+                            "name": "Winterthur",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.500332,
+                                "y": 8.723795
+                            },
+                            "distance": null
+                        }
+                    },
+                    "arrival": {
+                        "station": {
+                            "id": "8503000",
+                            "name": "Z\u00fcrich HB",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.377847,
+                                "y": 8.540502
+                            },
+                            "distance": null
+                        },
+                        "arrival": "2018-01-31T10:23:00+0100",
+                        "arrivalTimestamp": 1517390580,
+                        "departure": null,
+                        "departureTimestamp": null,
+                        "delay": 0,
+                        "platform": "31",
+                        "prognosis": {
+                            "platform": null,
+                            "arrival": "2018-01-31T10:23:00+0100",
+                            "departure": null,
+                            "capacity1st": null,
+                            "capacity2nd": null
+                        },
+                        "realtimeAvailability": null,
+                        "location": {
+                            "id": "8503000",
+                            "name": "Z\u00fcrich HB",
+                            "score": null,
+                            "coordinate": {
+                                "type": "WGS84",
+                                "x": 47.377847,
+                                "y": 8.540502
+                            },
+                            "distance": null
+                        }
+                    }
+                }]
+        }],
+    "from": {
+        "id": "8506000",
+        "name": "Winterthur",
+        "score": null,
+        "coordinate": {
+            "type": "WGS84",
+            "x": 47.500332,
+            "y": 8.723795
+        },
+        "distance": null
+    },
+    "to": {
+        "id": "8503000",
+        "name": "Z\u00fcrich HB",
+        "score": null,
+        "coordinate": {
+            "type": "WGS84",
+            "x": 47.377847,
+            "y": 8.540502
+        },
+        "distance": null
+    },
+    "stations": {
+        "from": [{
+                "id": "8506000",
+                "name": "Winterthur",
+                "score": null,
+                "coordinate": {
+                    "type": "WGS84",
+                    "x": 47.500332,
+                    "y": 8.723795
+                },
+                "distance": null
+            }],
+        "to": [{
+                "id": "8503000",
+                "name": "Z\u00fcrich HB",
+                "score": null,
+                "coordinate": {
+                    "type": "WGS84",
+                    "x": 47.377847,
+                    "y": 8.540502
+                },
+                "distance": null
+            }]
+    }
+}

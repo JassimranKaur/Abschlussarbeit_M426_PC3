@@ -41,7 +41,7 @@ public class FahrplanImpl extends UnicastRemoteObject implements FahrplanInterfa
             FahrplanImpl fpimpl = new FahrplanImpl();
             
             String fpService = "Fahrplan";
-            Naming.rebind("//localhost/" + fpService, fpimpl); //my ip: 172.25.42.33
+            Naming.rebind("//localhost/" + fpService, fpimpl); //my ip: 172.25.42.37
             
         } catch (Exception e) {
             e.printStackTrace();
