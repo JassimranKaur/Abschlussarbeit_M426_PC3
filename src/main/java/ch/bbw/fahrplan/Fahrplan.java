@@ -112,17 +112,6 @@ public class Fahrplan {
         }
     }
 
-    /*public static void main(String[] args) {
-        
-        //TEST Winterthur nach Zürich. Klein- / Grossschreibung und Umlaute unwichtig,
-        //JSON-Datei wird trotzdem gefunden.
-        Fahrplan fp = new Fahrplan();
-        fp.setDepartureLocation("Winterthur");
-        fp.setArrivalLocation("Genf");
-        fp.getInfo();
-        fp.printInfo();
-    }*/
-
     public ArrayList<String> getConnections() {
         return connections;
     }
